@@ -4,6 +4,6 @@ Scaner de vulneravilidades en una IP en una web, usted elige el nombre del domin
 
 comandos :
 
-git clone https://github.com/Papuhacker2/Scaner-Tiguero
+git clone https://github.com/Papuhacker2/Scaner-Tiguero-
 
 y listo, el archivo vendría listo para ejecutarse
