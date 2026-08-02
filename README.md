@@ -5,7 +5,10 @@ Scaner de vulneravilidades en una IP en una web, usted elige el nombre del domin
 comandos :
 pkg install python (termux )
 
+
 sudo apt install python3 (Linux)
+
+
 git clone https://github.com/Papuhacker2/Scaner-Tiguero-
 
 cd Scaner-Tiguero-
